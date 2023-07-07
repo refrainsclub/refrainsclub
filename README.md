@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Rentool
-- 🌱 I’m currently learning Web Development
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning React, Golang, and more.
 - 💬 I previously worked on Minecraft (Spigot) Plugins
 - 📫 How to reach me: @slackmuch (Discord)
 
