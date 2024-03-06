@@ -1,8 +1,6 @@
-### Hi there 👋
+### Kia Ora 👋
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning React, Golang, and more.
-- 💬 I previously worked on Minecraft (Spigot) Plugins
-- 📫 How to reach me: @refrainsclub (Discord)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RefrainsClub&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+- 🔭 Working on peer to peer tool hire startup Rentool
+- 🌱 Learning Data Structures and Algorithms
+- 💬 Experienced at developing Spigot plugins using Java/Kotlin
+- 📫 Reach me at [@refrainsclub](https://lexi.ws/discord) on Discord
