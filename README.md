@@ -17,4 +17,4 @@ My name is James. I am 16-year-old programmer, who loves tinkering and web devel
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/335160841026404353)](https://discord.com/users/335160841026404353)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refrainsclub)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refrainsclub&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
