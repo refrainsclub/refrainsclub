@@ -1,16 +1,28 @@
-<h1 align="center">Kia ora</h1>
+# James Blair
 
-My name is James. I love tinkering and web development
+I'm currently a high school student in New Zealand, looking for work experience.
 
-- 🔭 Currently working on peer to peer tool hire startup Rentool
+I enjoy web development, network and system administration and Linux.
 
-- 🌱 Learning Data Structures and Algorithms
+Otherwise I spend my time watching nerdy videos, playing Farm Merge Valley or sleeping.
 
-- 💬 Experienced with Spigot plugin development
+I'm taking Computer Science papers at the University of Waikato while still in high school.
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+*Currently open for commision. Feel free to flick me an email at [james@blair.nz](mailto:james@blair.nz)*
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/335160841026404353?showDisplayName=true&hideBadges=true)](https://discord.com/users/335160841026404353)
+## Tech Stack
+
+I'm talented in modern full stack web development with:
+
+- Next.js
+- React
+- NodeJS
+- TypeScript
+- Tailwind CSS
+- Drizzle ORM
+- React Email
+- Stripe and more.
+
+---
+
+**Portfolio of past projects coming soon.**
